@@ -1,3 +1,3 @@
 ---
-title: Welcome to my data journey blog!
+Title: Welcome to my data journey blog!
 ---
